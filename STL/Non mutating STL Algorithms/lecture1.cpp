@@ -1,0 +1,1 @@
+// find function-->takes three parameter

@@ -1,0 +1,1 @@
+//same as fifth question but with less time complexity

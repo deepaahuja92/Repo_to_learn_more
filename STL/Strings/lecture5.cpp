@@ -1,0 +1,1 @@
+//__builtin_popcount(n)-->counts the number of set bits in n

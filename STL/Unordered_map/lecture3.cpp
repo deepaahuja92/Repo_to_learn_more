@@ -1,0 +1,1 @@
+//print the element and it's frequency in the array
